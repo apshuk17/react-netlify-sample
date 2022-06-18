@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <h2>Sample Project</h2>
+    <h2>Sample Netlify Project</h2>
   )
 }
 
